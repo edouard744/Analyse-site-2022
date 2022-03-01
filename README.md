@@ -1,21 +1,21 @@
 # Analyse-site-DW2022
 
-##LE TEC
+## LE TEC
 
 https://www.letec.be/#/
 
-##Présentation et objectifs du site
+## Présentation et objectifs du site
 
 Donner des informations concernant les réseaux de transport en commun TEC.
 
 
-##Public cible
+## Public cible
 
 Toutes personnes qui empreinte les réseaux TEC avec une majorité d'utilisateurs dans la tranche d'age 20-30 ans
 
 ![Graphic des utilisateurs TEC](/image/Public-cible.jpeg "Tec graphic")
 
-##Taches
+## Taches
 
 1. Vous souhaitez trouver un itinéraire afin de retrouver votre ami à la Médiacité à Liège.
 Sachant que votre journée va être longue, vous devez impérativement être à la Médiacité pour 10 h 30.
@@ -31,13 +31,13 @@ Sachant que vous devez vous déplacer de 2 zones de bus 3 fois par semaine, et c
 En fonction de votre situation (âge, profession, enfant) choisissez l’option qui sera la plus avantageuse pour vous.
 Une fois fait rechercher le point de vente le plus proche afin de procéder à l’achat.
 
-##Utilisateurs
+## Utilisateurs
 
-###Test utilisateur 1:
+### Test utilisateur 1:
 
 adolescent de 15 ans
 
-####Scénario 1:
+#### Scénario 1:
 ~8 minutes
 Il ne pouvait qu'avoir le site en anglais même avec le navigateur en français
 (le site utilise probablement la langue du système?) .
@@ -56,7 +56,7 @@ Le résumé ne montre pas non plus dans quelle direction faut-il prendre la lign
 
 La plupart de ces points peuvent probablement être attribués à son manque d’attention.
 
-####Scénario 2:
+#### Scénario 2:
 ~3 minutes
 (Sa première réaction était de taper la question sur google.)
 
@@ -71,10 +71,10 @@ Il a dû refaire une recherche google pour trouver l’E-shop
 
 
 
-###Test utilisateur 2:
+### Test utilisateur 2:
 Guillaume Willems 23 ans , travaille dans l’électro mécanique
 
-####Scénario 1:
+#### Scénario 1:
 temps: +- 5min
 
 
@@ -85,7 +85,7 @@ Il a fallu un peu de temps avant de comprendre que les icônes de bus représent
 Quand il était dans les détails de son trajet, il a voulu cliquer sur les flèches rouges en pensant que c’était un retour en arrière(alors que non),après plusieurs tentatives il clique sur modifier ma recherche et tombe sur la page qu’il veut.
 
 
-####Scénario 2:
+#### Scénario 2:
 temps: 3 à 4 min(faut que je compte le temps sur la vidéo)
 
 il a tout de suite été dans abonnment , il était assez confuse sur les prix( car il laisse supposé que c’est les prix mais il ne marque pas € à côté.
@@ -96,58 +96,58 @@ il n'a pas vu en dessous de la carte les points les plus proches
 
 
 
-###Test utilisateur 3:
+### Test utilisateur 3:
 Stephane Hecquet 19 ans, étudiant en informatique à l’HEPL
 
-####Scénario 1:
+#### Scénario 1:
 temps: 5m10
 il n’a pas vu la section dans la page d'accueil et a été dans la navigations puis dans itinéraire, il a ensuite bien mis toute les informations (sauf qu’il a mis (départ à)  au lieu d'arriver à).
 
-####Scénario 2:
+#### Scénario 2:
 temps: 5m31
 il compris qu’il fallait prendre un abonnement, par contre il a vu qu’il y avait des prix réduits mais il n'a pas lu les conditions en dessous . ensuite il a vu E-shop mais il a cliquer sur carte mobib il a chercher dans trouver espace tec mais na pas vu le liens “trouver l’espace tec le plus proche” et il a commencé à chercher dans les régions pendant 1 min,
   il  est ensuite retourner en arrière pour aller sur la page de l’ESHOP mais n’a pas trouvé la non plus, il a cliqué tout en haut sur le liens  “ou acheter votre titre de transport “ et tous en bas sur trouver le points le plus proche, il a trouvé le points le plus proche avec la carte en sélectionnant point de vente.
 
 
-###Test utilisateur 4:
+### Test utilisateur 4:
 Daryl Liégeois 21 ans Travaille dans la logistique
 
-####Scénario 1:
+#### Scénario 1:
 temps : 2m37
 Il a tout de suite sélectionné dans la page d'accueil les deux lieux et l’heure d'arrivée, et il a directement trouvé son trajet.
 
-####Scénario 2:
+#### Scénario 2:
 temps: 3m45
 il a été dans abonement, il a trouvé le prix qu’il lui convenait  ensuite il été dans la navigations/ dans canaux de vents puis points tec et les points tec les plus proches, il a bien coché points de vente et a trouvé son points de vente
 
-###Test utilisateur 5:
+### Test utilisateur 5:
 Ysaline  21 ans (ma copine). Étudiante à l’Unif.
-####Scénario 1:
+#### Scénario 1:
 temps : 1m30
 Tout de suite bien trouvé les données à mettre dans le formulaire. Elle a juste pas utiliser le "démarrer à” ou “arriver à”. Elle l'a fait après la recherche.
 
-####Scénario 2:
+#### Scénario 2:
 temps: 3m
 Elle a directement été dans l’onglet “tarifs et abonnement”. Elle regardait les catégories à gauche pour trouver un tarif réduit suite à son statut de famille nombreuse. Elle est ensuite bien descendue dans la page grâce à la catégorie “comment s' abonner" et à fait sa recherche correctement.
 Test utilisateur 5:
 Ysaline 21 ans (ma copine). Etudiant à l’Unif.(Donc souvent sur un ordi)
-####Scénario 1:
+#### Scénario 1:
 temps : 1m30
 Tout de suite bien trouvé les données à mettre dans le formulaire. Elle a juste pas utiliser le "démarrer à” ou “arriver à”. Elle l'a fait après la recherche.
 
-####Scénario 2:
+#### Scénario 2:
 temps: 3m
 Elle a directement été dans l’onglet “tarifs et abonnement”. Elle regardait les catégories à gauche pour trouver un tarif réduit suite à son statut de famille nombreuse. Elle est ensuite bien descendue dans la page grâce à la catégorie “comment s' abonner" et à fait sa recherche correctement.
 
-###Test utilisateur 6:
+### Test utilisateur 6:
 
 Jessica 41 ans (ma mère). Femme d’ouvrage, n’utilise jamais un ordi.
-####Scénario 1:
+#### Scénario 1:
 Temps : 3m30
 Elle a remarqué le formulaire directement mais elle ne savait pas trop comment s’y prendre. Elle réfléchissait d’abord à quel arrêt mettre plutôt que de mettre directement l’adresse dans le champ.
 Par contre, elle observait beaucoup ce qu’il y avait dans le formulaire et elle a directement mis “arrivé à”.
 
-####Scénario 2:
+#### Scénario 2:
 
 temps: 6min30
 Elle a trouvé directement l’onglet pour les abonnements mais pour trouver le point de vente ça à été plus compliqué. Elle a regardé dans pas mal de pages sans vraiment d'intérêt car elle ne savait pas comment procéder.
@@ -155,7 +155,7 @@ Elle a ensuite été dans l’ESHOP mais elle a compris qu’il fallait une cart
 Elle a été surprise du nombre de points de vente directement mis sur la carte et ça l’a un peu perturbé. Elle a finalement entré les données qu’il fallait pour finir la tâche.
 
 
-##Problèmes observers
+## Problèmes observers
 - Le bouton pour changer les langues est tous en bas changer la position me semble nécessaire
 
 - Dans headingsmap il y a une catégorie “professionnelle” qui ne va pas, c’est l’onglet “ plus… ” dans la navigation qui active ou désactive la class hidden de la section en javascript (quand on désactive js la section est donc inaccessible) GROS points négatifs 
@@ -166,29 +166,29 @@ Elle a été surprise du nombre de points de vente directement mis sur la carte 
 - Images parfois cliquables, parfois pas. Pareil pour le texte. (Bas de page dans la page d’accueil, certains articles sont cliquables et parfois non)
 - pas de démarcation au niveau de l’article "Pour votre SECURITE ". Est-ce 3 articles différents ? Ou un seul ? 2 ?
 - Les logos pourraient être mis en SVG plutôt qu’en PNG ou JPG.
-##HeadingsMap
+## HeadingsMap
 
 ![Image headingsMap TEC](/image/HeadingsMap.png "Graphics heading")
 ![Image headingsMap upgrade](/image/HeadingsMap-refonte.png "Image HeadingsMap après la refonte")
 
 
-##Micro Data
+## Micro Data
 ![Image micro data](/image/Micro-data.png "Image des micro data du site TEC")
 
 
-##Test du livre d'Amélie Boucher
+## Test du livre d'Amélie Boucher
 
-###Architecture:
+### Architecture:
 - Oui, les informations sont bien rangées dans l’architecture du site, les titres des rubriques font facilement comprendre leur contenu.
 - La structuration met en avant les contenus clés, les premiers résultats des navigations sont bien les rubriques les plus recherchées.
 -Les menus sont assez clair et aident correctement l'internaute à naviguer dans les contenus 
-###Organisation visuelle
+### Organisation visuelle
 - Le nombre d’informations est bien gérée et nécessaire pour la compréhension
 - Pas de problèmes sur la quantité de mots sur les pages navigantes
 - Le site n'affiche que les principaux éléments de navigation et d'interaction.
 - Les animations :Il n’y as pas vraiment d’animations seulement un petit sliders qui peut être mis en pause avec un bouton situé juste en dessous
 - Les menus déroulants de la navigation s'ouvrent au survol. Il y a bien un hover sur chaque lien cliquable.
-###Cohérence
+### Cohérence
 - Les localisations des contenus sont cohérentes, les pages sont généralement structurés de la mêmes manières
 - Les termes et pictogrammes utilisés sont cohérents
 - La cohérence des styles en fonction des différents formats et bien respecter
@@ -196,37 +196,37 @@ Elle a été surprise du nombre de points de vente directement mis sur la carte 
 ###Conventions
 - La localisation des éléments est respectée. Excepté le changement de langue du site qui n’est pas placé comme dans les autres sites
 - Le site respecte les conventions de vocabulaire (espace client , nous contacter ,E-shop avec un icône de panier) c’est cohérent par rapport aux autres sites sur le web.
-###Information
+### Information
 - La quantité d’informations est suffisantes
 - Le site donne de l'information générale, il y a de nombreux liens qui nous dirigent vers une page avec plus d’informations sur le sujet souhaité.
 - Le site fournit les informations au bon moment. Excepté le moment ou il faut calculer son prix
 - Il y a peu de feedback seulement quand t-on veut zoomer sur la carte, il nous indique qu’il faut faire command molette
 - Et ll y a un message d’erreur quand on ne rentre pas toute ou des mauvaises informations dans le formulaire d’itinéraire et au formulaire de contact (champ requis ou information ne correspond pas au format)
 - Les feedbacks sont bien visibles (bord rouge et message en dessous du champ)
-###Compréhension
+### Compréhension
 - Le vocabulaire n’est pas trop compliqué, il est assez bien orienté utilisateur, pas d’utilisation de métaphore qui pourrait être mal compris
 - Nous n'avons pas vraiment remarqué des éléments incompréhensibles, tout est plutôt claire
 ###Assistance
 - Les Call-To-Action sont bon
-###Gestion des erreurs
+### Gestion des erreurs
 - Les champs obligatoires sont affichés dans les formulaires de contact sauf dans le formulaire d'itinéraire, sûrement, car ça semble évident.
 - Libellé et légendes correct
 - Le repérage des erreurs est très rapide(bord rouge et message d'erreur en rouge)
 - L'internaute peut facilement corriger ses erreurs, les contenues des messages son adapté en fonction de l’erreur
-###Rapidité
+### Rapidité
 - Les éléments sont en général de bonne taille ce qui fait qu’on peut rapidement les atteindre
-###Liberté
+### Liberté
 - Le site resect les contrôles utilisateur conventionnels.
 - Il n'est pas lourd ou insistant dans ses propositions 
 - Il ne force pas l’utilisateur à voir quelque chose
-###Accessibilité : un site facile d'accès pour tous.
+### Accessibilité : un site facile d'accès pour tous.
 - Il est majoritaire acessible (Lecteur vocal ok, mais tabulation sur firefox n'est pas bonne)
-###Satisfaction de votre internaute
+### Satisfaction de votre internaute
 - Les utilisateurs arrivent à trouver les informations rechercher 
 
-##GTmetrix
+## GTmetrix
 ![Graphic GTmetrix du site TEC](/image/screencapture-gtmetrix-reports-www-letec-be-uBHxDDFf-2022-03-01-16_07_40.png "Graphics GTmetrix TEC")
-##Test d'Anysurfer 
+## Test d'Anysurfer 
 
 | Nom de la question                               | Note | Commentaire                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------- | ------- | ------------------------------------------------ |
