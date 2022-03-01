@@ -35,7 +35,7 @@ Une fois fait rechercher le point de vente le plus proche afin de procéder à l
 
 ###Test utilisateur 1:
 
-adolescent de 15 ans
+Henri adolescent de 15 ans
 
 ####Scénario 1:
 ~8 minutes
@@ -245,3 +245,5 @@ Elle a été surprise du nombre de points de vente directement mis sur la carte 
 | Le code source de la page d'accueil est-il valide?                               | 0/1     | source: [W3C Validator](https://validator.w3.org/)                                                                                                                                                                                                       |
 | Les vidéos sont-elles sous-titrées?                                              | 1.5/3   | La vidéo de présentation à des sous-titres anglais encodés sur la vidéo.                                                                                                                                                                                 |
 | La langue des pages est-elle correctement indiquée?                              | 0/2
+
+#### conclusion: 17.5/32
