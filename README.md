@@ -33,14 +33,14 @@ Une fois fait rechercher le point de vente le plus proche afin de procéder à l
 
 ## Utilisateurs
 
-### Test utilisateur 1:
+### Test utilisateur 1 :
 
 Henri adolescent de 15 ans
 
 #### Scénario 1:
 ~8 minutes
 Il ne pouvait qu'avoir le site en anglais même avec le navigateur en français
-(le site utilise probablement la langue du système?) .
+(le site utilise probablement la langue du système ?) .
 Aucun moyen de forcer la langue sur le site.
 
 
@@ -66,90 +66,88 @@ Il a trouvé les tableaux pour les tickets et les abonnements tout de suite.
 
 Il a trouvé la section “où acheter l’abonnement” juste après mais n’a pas vu le lien vers l’E-shop.
 Il est passé directement à la sous-section juste en dessous
-Il a dû refaire une recherche google pour trouver l’E-shop
+Il a dû refaire une recherche Google pour trouver l’E-shop
 
 
 
 
-### Test utilisateur 2:
-Guillaume Willems 23 ans , travaille dans l’électro mécanique
+### Test utilisateur 2 :
+Guillaume Willems 23 ans, travaille dans l’électro mécanique
 
 #### Scénario 1:
 temps: +- 5min
 
-
-il n’a pas fait attention au menu “Partir maintenant” dans le formulaire de base, il l'a ensuite remarqué mais il a cliquer sur (départ à) au lieu de (arriver à) mais c’est plus une faute d'inattention je pense.
+il n’a pas fait attention au menu “Partir maintenant” dans le formulaire de base, il l'a ensuite remarqué, mais il a cliqué sur (départ à) au lieu de (arriver à) mais c’est plus une faute d'inattention je pense.
 
 Il a fallu un peu de temps avant de comprendre que les icônes de bus représentaient les lignes de bus.
 
-Quand il était dans les détails de son trajet, il a voulu cliquer sur les flèches rouges en pensant que c’était un retour en arrière(alors que non),après plusieurs tentatives il clique sur modifier ma recherche et tombe sur la page qu’il veut.
+Quand il était dans les détails de son trajet, il a voulu cliquer sur les flèches rouges en pensant que c’était un retour en arrière(alors que non), après plusieurs tentatives il clique sur modifier ma recherche et tombe sur la page qu’il veut.
 
 
 #### Scénario 2:
 temps: 3 à 4 min(faut que je compte le temps sur la vidéo)
 
-il a tout de suite été dans abonnment , il était assez confuse sur les prix( car il laisse supposé que c’est les prix mais il ne marque pas € à côté.
+il a tout de suite été dans abonnement, il était assez confus sur les prix(car il laisse supposé que c’est les prix, mais il ne marque pas € à côté.
 
 une fois son tarif trouvé il s’est mit à chercher dans les canaux de ventes puis dans les points de vente à proximité et enfin dans les “points tec les plus proches “
-il n’arrivait pas à trouver les points tec car il y avait tous les arrêts sur la map, après 30 sec/1 min il s’est mit à zommé et a trouvé le points de vente qu’il voulait.
+il n’arrivait pas à trouver les points tec, car il y avait tous les arrêts sur la map, après 30 sec/1 min il s’est mit à zommé et a trouvé le point de vente qu’il voulait.
 il n'a pas vu en dessous de la carte les points les plus proches
 
 
 
-### Test utilisateur 3:
+### Test utilisateur 3 :
 Stephane Hecquet 19 ans, étudiant en informatique à l’HEPL
 
 #### Scénario 1:
-temps: 5m10
+Temps: 5m10
+
 il n’a pas vu la section dans la page d'accueil et a été dans la navigations puis dans itinéraire, il a ensuite bien mis toute les informations (sauf qu’il a mis (départ à)  au lieu d'arriver à).
 
 #### Scénario 2:
-temps: 5m31
-il compris qu’il fallait prendre un abonnement, par contre il a vu qu’il y avait des prix réduits mais il n'a pas lu les conditions en dessous . ensuite il a vu E-shop mais il a cliquer sur carte mobib il a chercher dans trouver espace tec mais na pas vu le liens “trouver l’espace tec le plus proche” et il a commencé à chercher dans les régions pendant 1 min,
-  il  est ensuite retourner en arrière pour aller sur la page de l’ESHOP mais n’a pas trouvé la non plus, il a cliqué tout en haut sur le liens  “ou acheter votre titre de transport “ et tous en bas sur trouver le points le plus proche, il a trouvé le points le plus proche avec la carte en sélectionnant point de vente.
+Temps: 5m31
+
+Il comprit qu’il fallait prendre un abonnement, par contre il a vu qu’il y avait des prix réduits, mais il n'a pas lu les conditions en dessous. Ensuite il a vu E-shop mais il a cliqué sur carte mobib il a cherché dans trouver espace tec, mais na pas vu le lien “trouver l’espace tec le plus proche” et il a commencé à chercher dans les régions pendant 1 min,
+  il est ensuite retourné en arrière pour aller sur la page de l’ESHOP mais n’a pas trouvé la non plus, il a cliqué tout en haut sur le lien “ou acheter votre titre de transport “ et tous en bas sur trouver le point le plus proche, il a trouvé le point le plus proche avec la carte en sélectionnant point de vente.
 
 
-### Test utilisateur 4:
+### Test utilisateur 4 :
 Daryl Liégeois 21 ans Travaille dans la logistique
 
 #### Scénario 1:
-temps : 2m37
+Temps : 2m37
+
 Il a tout de suite sélectionné dans la page d'accueil les deux lieux et l’heure d'arrivée, et il a directement trouvé son trajet.
 
 #### Scénario 2:
-temps: 3m45
-il a été dans abonement, il a trouvé le prix qu’il lui convenait  ensuite il été dans la navigations/ dans canaux de vents puis points tec et les points tec les plus proches, il a bien coché points de vente et a trouvé son points de vente
+Temps : 3m45
 
-###Test utilisateur 5:
+il a été dans abonnement, il a trouvé le prix qu’il lui convenait  ensuite il été dans la navigations/ dans canaux de vents puis points tec et les points tec les plus proches, il a bien coché points de vente et a trouvé son points de vente
+
+### Test utilisateur 5 :
 Ysaline  21 ans (ma copine). Étudiante à l’Unif.
 #### Scénario 1:
-temps : 1m30
+Temps : 1m30
+
 Tout de suite bien trouvé les données à mettre dans le formulaire. Elle a juste pas utiliser le "démarrer à” ou “arriver à”. Elle l'a fait après la recherche.
 
 #### Scénario 2:
-temps: 3m
-Elle a directement été dans l’onglet “tarifs et abonnement”. Elle regardait les catégories à gauche pour trouver un tarif réduit suite à son statut de famille nombreuse. Elle est ensuite bien descendue dans la page grâce à la catégorie “comment s' abonner" et à fait sa recherche correctement.
-Test utilisateur 5:
-Ysaline 21 ans (ma copine). Etudiant à l’Unif.(Donc souvent sur un ordi)
-#### Scénario 1:
-temps : 1m30
-Tout de suite bien trouvé les données à mettre dans le formulaire. Elle a juste pas utiliser le "démarrer à” ou “arriver à”. Elle l'a fait après la recherche.
+Temps : 3m
 
-#### Scénario 2:
-temps: 3m
 Elle a directement été dans l’onglet “tarifs et abonnement”. Elle regardait les catégories à gauche pour trouver un tarif réduit suite à son statut de famille nombreuse. Elle est ensuite bien descendue dans la page grâce à la catégorie “comment s' abonner" et à fait sa recherche correctement.
 
-### Test utilisateur 6:
+### Test utilisateur 6 :
 
 Jessica 41 ans (ma mère). Femme d’ouvrage, n’utilise jamais un ordi.
 #### Scénario 1:
 Temps : 3m30
+
 Elle a remarqué le formulaire directement mais elle ne savait pas trop comment s’y prendre. Elle réfléchissait d’abord à quel arrêt mettre plutôt que de mettre directement l’adresse dans le champ.
 Par contre, elle observait beaucoup ce qu’il y avait dans le formulaire et elle a directement mis “arrivé à”.
 
 #### Scénario 2:
 
-temps: 6min30
+Temps : 6min30
+
 Elle a trouvé directement l’onglet pour les abonnements mais pour trouver le point de vente ça à été plus compliqué. Elle a regardé dans pas mal de pages sans vraiment d'intérêt car elle ne savait pas comment procéder.
 Elle a ensuite été dans l’ESHOP mais elle a compris qu’il fallait une carte MOBIB (ce qu’elle n’a pas). Elle a continué à chercher dedans et c’est après un peu de temps qu’elle a trouvé tout en dessous de la page le lien pour “ Trouver un point de vente”.
 Elle a été surprise du nombre de points de vente directement mis sur la carte et ça l’a un peu perturbé. Elle a finalement entré les données qu’il fallait pour finir la tâche.
@@ -158,7 +156,7 @@ Elle a été surprise du nombre de points de vente directement mis sur la carte 
 ## Problèmes observers
 - Le bouton pour changer les langues est tous en bas changer la position me semble nécessaire
 
-- Dans headingsmap il y a une catégorie “professionnelle” qui ne va pas, c’est l’onglet “ plus… ” dans la navigation qui active ou désactive la class hidden de la section en javascript (quand on désactive js la section est donc inaccessible) GROS points négatifs 
+- Dans Headingsmap il y a une catégorie “professionnelle” qui ne va pas, c’est l’onglet “ plus… ” dans la navigation qui active ou désactive la class hidden de la section en javascript (quand on désactive js la section est donc inaccessible) GROS points négatifs 
 
 - Dans ”calculer votre tarif ” on nous donne plusieurs informations sur notre trajet mais aucune concernant le prix (qui est le but initiale de cette page)
 - problème de navigations au tab sur (Mac / firefox)
