@@ -219,7 +219,7 @@ Elle a été surprise du nombre de points de vente directement mis sur la carte 
 - Il ne force pas l’utilisateur à voir quelque chose
 ### Accessibilité
 - Il est majoritaire accessible (Lecteur vocal ok, mais tabulation sur firefox n'est pas bonne)
-###Satisfaction de votre internaute
+### Satisfaction de votre internaute
 - Les utilisateurs arrivent à trouver les informations rechercher 
 
 ## GTmetrix
